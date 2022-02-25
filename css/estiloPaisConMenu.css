@@ -1,5 +1,10 @@
-body.inicio {
+body {
     margin: 0;
+}
+header{
+  background-color: darkblue;
+  color: aqua;
+  text-align: center;
 }
 
 ul {
@@ -22,7 +27,7 @@ li a {
 }
 
 li a.active {
-    background-color: #4CAF50;
+    background-color:darkmagenta;
     color: white;
 }
 
